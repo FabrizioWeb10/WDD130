@@ -21,7 +21,7 @@ body {
     background-color: white;
 }
 header, footer{
-    background-color: rgba(13, 170, 21, 0.78);
+    background-color: #669966;
 }
 .book, .join, .book:hover, .join:hover, .msg{
     background-color: black;
@@ -127,7 +127,7 @@ main section img {
     box-sizing: border-box;
 }
 footer{
-    background-color: rgba(13, 170, 21, 0.78);
+    background-color: #669966;
 }
 .mountains {
     display: block;
@@ -215,7 +215,7 @@ nav {
     grid-row: 6 / 8;
   }
   footer {
-    background-color: rgba(13, 170, 21, 0.78);
+    background-color: #669966;
     padding: 25px 50px;
     margin-top: 200px; 
     display: flex;
@@ -291,6 +291,8 @@ nav {
 #img-gal{
     margin: 20px;
      margin-bottom: 20px;
+     width: 500px;
+     height: 500px;
 
     border: 10px solid rgba(13, 170, 21, 0.78) 
     
