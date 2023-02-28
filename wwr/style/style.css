@@ -24,7 +24,7 @@ header, footer{
     background-color: rgba(13, 170, 21, 0.78);
 }
 .book, .join, .book:hover, .join:hover, .msg{
-    background-color: whitesmoke;
+    background-color: black;
 }
 nav a:hover{
     background-color: rgba(13, 170, 21, 0.78);
@@ -135,7 +135,7 @@ footer{
 }
 header {
 display: grid;
-grid-template-columns: 150px auto;
+
 }
 nav {
     display: flex;
@@ -286,3 +286,17 @@ nav {
         margin-top: 25px;
     }
 }
+
+
+#img-gal{
+    margin: 20px;
+     margin-bottom: 20px;
+
+    border: 10px solid rgba(13, 170, 21, 0.78) 
+    
+
+}
+#img-gal:hover{
+    transform: scale(1.02);
+}
+
